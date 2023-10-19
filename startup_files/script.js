@@ -1,4 +1,12 @@
+var  _ = require('lodash');
+console.log(_);
+import { without } from "lodash";
+
+console.log(without);
+
+
+
 let button = document.getElementById('myButton');
 button.addEventListener ('click', function(){
-    console.log('Button Clicked!');
+    alert('More Info on The Way!!!');
 });

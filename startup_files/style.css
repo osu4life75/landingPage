@@ -42,6 +42,7 @@ header {
 .btn-primary{
   background-color: #F05F44;
   border-color: #F05F44;
+  margin-bottom: 60px;
 }
 
 .btn-primary:hover{
